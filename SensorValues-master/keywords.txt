@@ -6,3 +6,6 @@ calc_pitch	KEYWORD2
 calc_roll	KEYWORD2
 calc_yaw	KEYWORD2
 print_angles	KEYWORD2
+pitch	KEYWORD2
+roll	KEYWORD2
+yaw	KEYWORD2
