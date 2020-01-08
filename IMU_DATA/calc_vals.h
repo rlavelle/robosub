@@ -23,3 +23,5 @@ class calc_vals{
 		calc_yaw();
 		print_angles();
 }
+
+#endif
