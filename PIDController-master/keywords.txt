@@ -1,0 +1,5 @@
+PIDController	KEYWORD1
+PIDcal_pitch	KEYWORD2
+PIDcal_roll	KEYWORD2
+PIDcal_yaw	KEYWORD2
+PIDcal_depth	KEYWORD2
