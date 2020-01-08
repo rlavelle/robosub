@@ -1,0 +1,8 @@
+SensorValues KEYWORD1
+get_accel_data KEYWORD2
+get_gyro_data KEYWORD2
+get_mag_data KEYWORD2
+calc_pitch KEYWORD2
+calc_roll KEYWORD2
+calc_yaw KEYWORD2
+print_angles KEYWORD2
